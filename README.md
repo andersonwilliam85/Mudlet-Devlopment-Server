@@ -1,7 +1,4 @@
 # Mudlet-Devlopment-Server
- The Mudlet dev server monitors .mpackage changes, extracting triggers, aliases, and scripts into organized .lua files. A Python script parses XML data, while a Bash script continuously watches for updates, enabling efficient, structured development and documentation of Mudlet packages.
-=======
-# Mudlet-Development-Server
 
 The **Mudlet-Development-Server** is a tool designed to streamline development for Mudlet packages. It monitors `.mpackage` files for changes and extracts essential components (triggers, aliases, scripts) into individual, organized `.lua` files, making them easier to work with in version control.
 
